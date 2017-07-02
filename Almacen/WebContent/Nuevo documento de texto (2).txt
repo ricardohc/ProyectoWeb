@@ -1,0 +1,12 @@
+sencha Ext JS
+Angular
+Backboone
+knockout
+ember
+
+
+top 10 java web size
+pluggin wapalyzer trackea las urls y lee la petion en el http request
+para saber q tecnologia estan usando
+
+struts.action.extension value html
