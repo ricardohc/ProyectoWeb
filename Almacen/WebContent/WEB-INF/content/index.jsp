@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
-	<!-- hola kattia como estas-->
+	<!-- COMENTARIO DE PAGINA DE INICIO AAAAAAA-->
 <!DOCTYPE>
 <html>
 <head>
