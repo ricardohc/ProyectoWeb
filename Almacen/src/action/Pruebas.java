@@ -6,7 +6,7 @@ import model.ProductoModel;
 public class Pruebas {
 	
 	public static void main(String[] args) {
-		
+		//ESTO ES UNA INSTACIA DEL MODEL
 		ProductoModel dao=new ProductoModel();
 		
 //		Producto d= new Producto();
